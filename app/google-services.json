@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "268010387811",
+    "firebase_url": "https://animuber-94a4d.firebaseio.com",
+    "project_id": "animuber-94a4d",
+    "storage_bucket": "animuber-94a4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268010387811:android:040b71af57aa209e543b56",
+        "android_client_info": {
+          "package_name": "com.oneinlife.animuber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268010387811-v3pl1fthqqrupugpser21gsosv3ff5oe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oneinlife.animuber",
+            "certificate_hash": "183eddb2746631b4952c09cc2f3ca99bf31ebf84"
+          }
+        },
+        {
+          "client_id": "268010387811-hfgoaibafuv4v56esjoce9tgniisklma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFo1JVrsQa0CYFZYBJsKBxGbyTNbgIaoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268010387811-hfgoaibafuv4v56esjoce9tgniisklma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
